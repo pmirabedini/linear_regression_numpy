@@ -1,3 +1,3 @@
 ## Linear Regression implemented in NumPy
-#### The train and test data needs to be defined and preprocessed if nessecary.
+#### The train and test dataset should to be defined by the user.
 
