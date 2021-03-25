@@ -9,10 +9,10 @@
 #### preprocessing of data
 The preprocessing code is not included in this repository. For reruning the code, you need to provide the data in the following format:
 
-- `trainX` and `trainY`: the training data, `trainX` (number of samples, number of features) `trainY` (number of samples,).  
-- `testX` and `testY`: the testing data, similar shape as the train data (with different number of samples)
-- `featurenames`: an array of the features names
-- `nfeat`: number of the features
+- *trainX* and *trainY*: the training data, *trainX* (number of samples, number of features) *trainY* (number of samples,).  
+- *testX* and *testY*: the testing data, similar shape as the train data (with different number of samples)
+- *featurenames*: an array of the features names
+- *nfeat*: number of the features
 
 
 #### Main functions and visualization - my contribution
