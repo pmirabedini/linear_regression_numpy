@@ -20,7 +20,7 @@ The preprocessing code is not included in this repository. For reruning the code
 
 - part two: function to perform PCA transformation on the data
 
-- part three: PCA transformation scaled each feature independently by its standard deviation ("z-normalization.").
+- part three: PCA transformation scaled each feature independently by its standard deviation (z-normalization).
 
 Similar to part one, you can use the get_PCA_errors.py function to find the train and test errors when using each feature individually. 
 
