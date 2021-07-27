@@ -1,4 +1,4 @@
-# Linear Regression implemented in NumPy
+# Linear Regression and PCA implemented in NumPy
  This code provides linear regression and principal components Analysis (PCA) functions and postprocessing to analyze feature selection. This code was written as a class project. Therefore, I am only providing the parts I wrote. You can simply use python plot options to visualize the results from each part. The train and test dataset should to be defined by the user.
 
 
